@@ -5,7 +5,7 @@
 ## Creation of security group
 ### I created my security group to protect my instance from unauthorized access and to prevent unwanted traffic from entering or leaving my instance
 
-STEP_1 I navigated the side bar of the AWS console to locate the security group and clicked on the create security as seen in the image below
+###STEP_1. I navigated the side bar of the AWS console to locate the security group and clicked on the create security as seen in the image below
 ![security bar](/CreatingSG_1.png)
 
  STEP_2 I put in my basic details with a name I can easily locate and description of the security group I am creating then I used the VPC created for the project 
